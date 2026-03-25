@@ -1,0 +1,14 @@
+{
+  "name": "@career-hub/rag-core",
+  "version": "1.0.0",
+  "description": "共享RAG知识库模块 - TF-IDF向量检索+知识管理",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js --no-cache",
+    "lint": "eslint src/"
+  },
+  "keywords": ["rag", "knowledge-base", "tfidf", "retrieval", "career-hub"],
+  "author": "AchengBusiness",
+  "license": "MIT"
+}
